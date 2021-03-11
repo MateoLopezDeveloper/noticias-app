@@ -29,3 +29,9 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+*.cache
+*.png
+*.ts
+src/environments/environment.prod.ts
+src/manifest.webmanifest
+.firebaserc
